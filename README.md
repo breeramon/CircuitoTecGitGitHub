@@ -1,4 +1,4 @@
-# Oficna de Git e GitHub - Universidade Tiradentes - Circuito Tecnológico
+# Oficina de Git & GitHub - Universidade Tiradentes - Circuito Tecnológico
 
 ## Sobre o Projeto
 
