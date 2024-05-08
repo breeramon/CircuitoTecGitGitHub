@@ -1,4 +1,4 @@
-# Oficina de Git & GitHub - Universidade Tiradentes - Circuito Tecnológico
+# Oficina de Git & GitHub - Universidade Tiradentes - Circuito Tecnológico 2024
 
 ## Sobre o Projeto
 
@@ -6,7 +6,7 @@ Este projeto é destinado a oficina realizado no Circuito Tecnológico de 2024 p
 
 ## Tecnologias Utilizadas
 
-- Git
+- Git (terminal de comnando)
 - GitHub
 - Visual Studio Code
 
