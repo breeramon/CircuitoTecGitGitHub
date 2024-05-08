@@ -6,7 +6,7 @@ Este projeto é destinado a oficina realizado no Circuito Tecnológico de 2024 p
 
 ## Tecnologias Utilizadas
 
-- Git (terminal de comnando)
+- Git (terminal de comando)
 - GitHub
 - Visual Studio Code
 
